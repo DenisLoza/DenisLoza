@@ -11,5 +11,4 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisLoza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenisLoza)](https://git.io/streak-stats)
 - 📫 How to reach me? Please, send e-mail to denisloza.git@gmail.com
