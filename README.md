@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Denis Loza
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>I’m currently learning Frontend develop</h3>
+<h3>I'm a junior Frontend developer interested in developing JavaScript/TypeScript and React applications.h3>
 <h3>My SKILLS:</h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
