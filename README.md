@@ -13,3 +13,4 @@
 </br>
 ***
 📫 How to reach me? Please, send e-mail to denisloza.git@gmail.com
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisLoza)](https://github.com/anuraghazra/github-readme-stats)
